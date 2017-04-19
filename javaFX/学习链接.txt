@@ -1,0 +1,27 @@
+
+JAVAFX中文、OSGI、ECLIPSE开源资料：
+http://www.javafxchina.net/blog/efxclipse/
+
+
+JavaFX 2 系列教程(英文):
+http://code.makery.ch/library/javafx-2-tutorial/
+
+JavaFX 8 教程（中文）:
+http://code.makery.ch/library/javafx-8-tutorial/zh-cn/
+
+
+JavaFX 2和JavaFX 8的对比：
+http://code.makery.ch/blog/update-to-javafx-8-whats-new/
+
+
+
+《从零开始学习JavaFX》系列教程：
+http://www.wjfxgame.com/?id=16
+
+
+下载javafx scene builder：
+http://www.oracle.com/technetwork/java/javafxscenebuilder-1x-archive-2199384.html
+
+
+
+
